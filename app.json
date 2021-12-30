@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Kyuraxp/File-Sharing-Kyura",
+  "repository": "https://github.com/Kyuraxs/File-Sharing-Kyura",
   "logo": "https://telegra.ph/file/d841005eca08d0ed2ef36.jpg",
   "env": {
     "TG_BOT_TOKEN": {
