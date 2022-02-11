@@ -1,11 +1,11 @@
-# File-Sharing-Kyura
+# File-Sharing-Abing
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@KyuraSupport](https://www.telegram.dog/KyuraSupport)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke owner  [@sayaabing](https://www.telegram.dog/Kenzusupport)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -22,12 +22,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Kyuraxs/File-Sharing-Kyura)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nabilrmdaan/File-Sharing-Abing)</br>
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
 
 #### Deploy in your VPS
 ````bash
@@ -89,7 +85,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/KyuraSupport) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/KyuraProjects) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/Kenzusupport) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/abingsupport) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
@@ -102,7 +98,7 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/Kyuraxp/File-Sharing-Kyura/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/nabilrmdaan/File-Sharing-Abing/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
@@ -110,5 +106,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
-   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
+   
 
