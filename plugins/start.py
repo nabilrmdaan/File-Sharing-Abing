@@ -74,11 +74,11 @@ async def start_command(client: Client, message: Message):
                 ids = [int(int(argument[1]) / abs(client.db_channel.id))]
             except BaseException:
                 return
-        temp_msg = await message.reply("<code>Tunggu Sebentar Ngentooott...</code>")
+        temp_msg = await message.reply("<code>Tunggu Sebentar Titidddd...</code>")
         try:
             messages = await get_messages(client, ids)
         except BaseException:
-            await message.reply_text("<b>Telah Terjadi Error Kontol </b>🥺")
+            await message.reply_text("<b>Telah Terjadi Error Memek </b>🥺")
             return
         await temp_msg.delete()
 
@@ -152,7 +152,7 @@ async def not_joined(client: Client, message: Message):
         buttons.append(
             [
                 InlineKeyboardButton(
-                    text="ᴄᴏʙᴀ ʟᴀɢɪ TOT",
+                    text="ᴄᴏʙᴀ ʟᴀɢɪ MEK",
                     url=f"https://t.me/{client.username}?start={message.command[1]}",
                 )
             ]
