@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/nabilrmdaan/File-Sharing-Abing",
-  "logo": "https://telegra.ph/file/d841005eca08d0ed2ef36.jpg",
+  "logo": "https://telegra.ph/file/9f0a7192891de6fe937b4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
