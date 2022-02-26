@@ -28,8 +28,8 @@ OWNER = os.environ.get("OWNER", "mrismanaziz")
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "abingsupport")
-GROUP = os.environ.get("GROUP", "Kenzusupport")
+CHANNEL = os.environ.get("CHANNEL", "AbingProject")
+GROUP = os.environ.get("GROUP", "abingmusicsupport")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
