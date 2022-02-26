@@ -55,12 +55,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "abingsupport",
+      "value": "AbingProject",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Kenzusupport",
+      "value": "abingmusicsupport",
       "required": false
     }
   },
