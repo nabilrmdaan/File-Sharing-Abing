@@ -33,7 +33,7 @@ async def channel_post(client: Client, message: Message):
         )
     except Exception as e:
         print(e)
-        await reply_text.edit_text("<b>Telah Terjadi Error...</b>")
+        await reply_text.edit_text("<b>Telah Terjadi Error Tod...</b>")
         return
     converted_id = post_message.message_id * abs(client.db_channel.id)
     string = f"get-{converted_id}"
@@ -51,7 +51,7 @@ async def channel_post(client: Client, message: Message):
     )
 
     await reply_text.edit(
-        f"<b>Link Sharing File Berhasil Di Buat :</b>\n\n{link}",
+        f"<b>Link Sharing File Berhasil Di Buat Yaaa Todd:</b>\n\n{link}",
         reply_markup=reply_markup,
         disable_web_page_preview=True,
     )
